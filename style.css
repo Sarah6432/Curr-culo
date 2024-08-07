@@ -1,0 +1,66 @@
+#nome {
+    font-family: sans-serif;
+    margin-bottom: 1%;
+}
+
+#curso {
+    font-family: 'Gill Sans MT';
+    font-size: 85%;
+    margin-bottom: 1%;
+    font-size: 115%;
+}
+
+#perfil2 {
+    border-radius: 50%;
+    height: 50%;
+    width: 20%;
+    margin-right: 4%;
+    border: 1;
+}
+
+#textodados {
+    font-family: sans-serif;
+    font-size: 75%;
+    margin-bottom: 1%;
+    margin-top: 0%;
+}
+
+#telefone {
+    border-radius: 50%;
+    width: 2%;
+    margin-right: 1%;
+}
+
+#linkedin {
+    border-radius: 50%;
+    width: 2.5%;
+    margin-right: 1%;
+}
+
+#email {
+    border-radius: 50%;
+    width: 2.5%;
+    margin-right: 1%;
+}
+
+#dados {
+    font-family: 'Gill Sans';
+    font-size: 100%;
+    margin-top: 1%;
+    margin-right: 2%;
+    margin-bottom: 0%;
+}
+
+h3{
+    margin-left: 4%;
+    font-family: 'Gill Sans MT';
+}
+
+ul{
+    font-family: Georgia;
+    font-size: 94%; 
+}
+h4{
+    font-family: 'Gill Sans MT';
+    font-size: 95%; 
+}
